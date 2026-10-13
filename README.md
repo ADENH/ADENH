@@ -38,6 +38,15 @@ pipelines.
 - **Wilayah API** — REST API for Indonesian administrative regions (Kemendagri codes) with
   formatted full-hierarchy addresses.
 
+#### Open source & public writing
+
+- **[arvatech-case-studies](https://github.com/ADENH/arvatech-case-studies)** — how the systems above
+  were built: problem, approach, stack and the trade-offs behind each call.
+- **[artex-skill](https://github.com/ADENH/artex-skill)** — an Agent Skill that distils an
+  autonomous penetration-testing methodology into a portable prompt + file package (AGPL-3.0).
+- **[multi-tenant-chatbot](https://github.com/ADENH/multi-tenant-chatbot)** — FastAPI + OpenAI
+  chatbot API with per-tenant isolation, JWT auth and rate limiting.
+
 #### Toolbox
 
 - **Backend** — Python (FastAPI), TypeScript/Node, Go, Java (Quarkus · Spring)
