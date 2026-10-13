@@ -55,5 +55,6 @@ pipelines.
 #### Get in touch
 
 - Products, consulting and engineering partnerships: **[arvatech.id](https://arvatech.id)**
+- LinkedIn: **[in/adenurhidayat](https://www.linkedin.com/in/adenurhidayat)**
 - Most customer work lives in private repositories (client code). Happy to walk through
   architecture, trade-offs and code on a call.
